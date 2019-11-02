@@ -1,0 +1,16 @@
+{
+  "name": "try-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "./node_modules/.bin/cypress",
+    "test": "./node_modules/.bin/cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.4.1"
+  }
+}
